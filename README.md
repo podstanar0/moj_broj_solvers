@@ -3,18 +3,17 @@
 
 ---
 
-
 ## OOP - Python 3
 ### usage: 
 `python moj_broj_solver.py num1 num2, ... numN -c targetNum`
 
 ## Functional - Haskell
-### compiling:
+### usage:
+compile using:
+
 `ghc moj_broj_solver.hs`
 
-### usage:
-<<<<<<< HEAD
+then execute:
+
 `./moj_broj_solver`
-=======
-`./moj_broj_solver`
->>>>>>> e6b4e363b0b9ce88b4fc0a6c714872dc4b858357
+
