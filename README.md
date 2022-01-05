@@ -1,5 +1,6 @@
 # moj broj solvers
 moj broj game solvers implemented in multiple styles/paradigms.
+about game: https://www.slagalica.tv/game/mojbroj
 
 ---
 
