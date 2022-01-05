@@ -6,7 +6,7 @@
 
 ## OOP - Python 3
 ### usage: 
-`python moj_broj_solver.py num1 num2, ... num6 -c targetNum`
+`python moj_broj_solver.py num1 num2, ... numN -c targetNum`
 
 ## Functional - Haskell
 ### compiling:
