@@ -13,4 +13,8 @@
 `ghc moj_broj_solver.hs`
 
 ### usage:
+<<<<<<< HEAD
 `./moj_broj_solver`
+=======
+`./moj_broj_solver`
+>>>>>>> e6b4e363b0b9ce88b4fc0a6c714872dc4b858357
