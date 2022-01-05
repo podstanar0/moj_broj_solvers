@@ -1,9 +1,8 @@
 # moj broj solvers
-moj broj game solvers implemented in multiple styles/paradigms.
-
-about game: https://www.slagalica.tv/game/mojbroj
+[moj broj](https://www.slagalica.tv/game/mojbroj) game solvers implemented in multiple styles/paradigms.
 
 ---
+
 
 ## OOP - Python 3
 ### usage: 
